@@ -6,8 +6,6 @@ BeMusicSeekerで動作確認済。
 
 削除された譜面が一部残っているのはStella側の仕様です。
 
-URLの
-
 ## Stella
 - [EASY](https://ladymade-star.github.io/Stella-Recommend/st/ec/index.html)
 - [NORMAL](https://ladymade-star.github.io/Stella-Recommend/st/gc/index.html)
